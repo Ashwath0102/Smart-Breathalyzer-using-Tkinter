@@ -16,3 +16,8 @@ Algorithm:
     a. If the user has someone to drive them home.
     b. Otherwise, start the vehicle and limit the speed to 40 km/hr. 
 7. Stop.
+
+
+Output:
+
+![image](https://user-images.githubusercontent.com/59199696/169810244-7823c792-3a2b-44cc-912e-fc8592842ad1.png)
